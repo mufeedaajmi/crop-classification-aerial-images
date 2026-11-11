@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Dataset and trained model files (keep large/private data out of GitHub)
+data/
+models/
+*.h5
+*.keras
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
